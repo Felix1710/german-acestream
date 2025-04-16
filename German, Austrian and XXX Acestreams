@@ -396,9 +396,13 @@ e72d03fb9694164317260f684470be9ab781ed95
 NFL Network (US)
 10e514ecccea1ec53736aae6486c15c1cce9379e
 Sky Sports Cricket (UK)
+6d95e4b0893e155cc674b84e0763150c445d3ddd
 Sky Sports Football (UK)
+8dbe2d515e9131fa311353537736f8c94be9b26d
 Sky Sports News (UK) (before: Sky Sports Main Event)
+eab7aeef0218ce8b0752e596e4792b69eda4df5e
 Sky Sports+ (UK) (before: Sky Sports Arena)
+d317a003e8047da2c36a2a2bb2289578c9a3b79c
 TNT Sports 1 (before: BT Sport1) (UK)
 efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 TNT Sports 2 (before:BT Sport 2) (UK)
@@ -499,7 +503,6 @@ Young Girls
 186d6f88aa7fd085e2142305b83f24939747068e
 
 
-Ein paar funktionierende VLC Streams werden auch bald folgen!
-Some working VLC Streams will follow soon too!
+VLC & other Player make http://127.0.0.1:6878/ace/manifest.m3u8?id=   infront of the codes!
 
 If something not work, then is it Offline! Have Fun!
