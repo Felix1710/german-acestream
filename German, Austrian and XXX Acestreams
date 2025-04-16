@@ -282,9 +282,9 @@ Sky Sport News
 07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
 ----------
 Sport
-DAZN 1 Bar
+DAZN 1 Bar *
 897e73c9d578848f596585314ecb9ae067c0e229
-DAZN 2 Bar
+DAZN 2 Bar *
 12ea555d431dbe51fc8e4ca745aec09fe22a4865
 Sport 1 HD
 1950633a3723cb52b17c764125decc04445bd5ff
@@ -292,30 +292,35 @@ Sport Digital
 5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 Sport Digital 1+ (früher: Sport 1+ HD)
 5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+
+* with Champions League (Man and woman)
 ----------
 Magenta Sport:
-Magenta Sport My Team TV 1
+Magenta Sport My Team TV 1 *
 501141c649a2b78c4965cbf3257224181cc55072
-Magenta Sport My Team TV 2
+Magenta Sport My Team TV 2 *
 ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-Magenta Sport My Team TV 3
+Magenta Sport My Team TV 3 *
 d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-Magenta Sport My Team TV 4
+Magenta Sport My Team TV 4 *
 1fb794b1503c5955b75ea0106ee6360b80d78849
-Magenta Sport My Team TV 5
+Magenta Sport My Team TV 5 *
 428b92f3c71cd3cbf66ef6193808b39d16a52730
-Magenta Sport My Team TV 6
+Magenta Sport My Team TV 6 *
 14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-Magenta Sport My Team TV 7
+Magenta Sport My Team TV 7 *
 ac839cda9709255c21a98af455731f037e77a9e4
-Magenta Sport My Team TV 8
+Magenta Sport My Team TV 8 *
 11c5823d4196a90b509f03df1fe78e13cfbbb175
-Magenta Sport My Team TV 9
+Magenta Sport My Team TV 9 *
 86495fe134ff065d5217497babe6be33f81d37d1
-Magenta Sport My Team TV 10
+Magenta Sport My Team TV 10 *
 6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-Magenta Sport My Team TV 11
+Magenta Sport My Team TV 11 *
 c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
+* senden 3. Liga, Frauen Bundesliga, BBL, EHL und mehr
+* shows the 3. League (man), the 1. Woman Bundesliga, german Basketball, Icehockey and more
 ----------
 Eurosport:
 Eurosport 1 HD
@@ -342,18 +347,21 @@ Eurosport 360 9
 7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 ----------
 RTL+ Sport:
-RTL+ Sport Event 1
+RTL+ Sport Event 1 *
 a7319ebd54cb1db9a9db1574929ca8d305a323d3
-RTL+ Sport Event 2
+RTL+ Sport Event 2 *
 e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-RTL+ Sport Event 3
+RTL+ Sport Event 3 *
 8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-RTL+ Sport Event 4
+RTL+ Sport Event 4 *
 784da1ced871f6d3f6bf25f29664bfd39f6130a6
-RTL+ Sport Event 5
+RTL+ Sport Event 5 *
 81284e9a279ee23cbc4a7400bd9531f127d20fe5
-RTL+ Sport Event 6
+RTL+ Sport Event 6 *
 c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+
+* senden auch Europa & Conference League ;)
+* shows Europa League & Conference League too
 ----------
 Sport Austria:
 ORF Sport+ HD
@@ -368,6 +376,7 @@ Sky Sport Österreich 4 (before: RTL+ Sport Event 10) *
 e6cce13cb4005ec3c7d77db47865385927a7ab7e
 
 * senden auch Champions League ;)
+* shows the Champions League too ;)
 ----------
 Sport (other languages)
 beIN Sports 1 (BE/FR)
